@@ -1,0 +1,68 @@
+[{
+  "_id": {
+    "$oid": "662947e2bb2ce7f2cc384514"
+  },
+  "name": "test2",
+  "age": "22",
+  "gender": "female",
+  "email": "sdf3@sd.ff",
+  "password": {
+    "$binary": {
+      "base64": "JDJiJDEyJGh4ZWxQNzRVZ1JaZGh6WUJjakRiRmVsSHlMdmlrcUNTbFdDL3hSRXZGUC5HdS5ac1JUQWJT",
+      "subType": "00"
+    }
+  },
+  "year_of_study": "22",
+  "is_enabled": true
+},
+{
+  "_id": {
+    "$oid": "662ba13a52ed05e6c8935984"
+  },
+  "name": "counselor",
+  "age": "31",
+  "gender": "female",
+  "email": "counselor@mail.com",
+  "password": {
+    "$binary": {
+      "base64": "JDJiJDEyJEg3eU5hUjh5SnpIU1JRQklkUEhSV08uTjZ6amE3SVNJTW1sUlRNeU53dHBQczVjNDdkWWFT",
+      "subType": "00"
+    }
+  },
+  "year_of_study": "2",
+  "is_enabled": true
+},
+{
+  "_id": {
+    "$oid": "662c94397ce253b4905e4324"
+  },
+  "name": "admin",
+  "age": "99",
+  "gender": "male",
+  "email": "admin@mail.com",
+  "password": {
+    "$binary": {
+      "base64": "JDJiJDEyJEtIMkthZkpnTGI4Mm8yeXRPdDM5MnVwTGJaWC5LSDR2d0ZGUk15Ukk5SzEzaHM1WFJVLmVH",
+      "subType": "00"
+    }
+  },
+  "year_of_study": "4",
+  "is_enabled": true
+},
+{
+  "_id": {
+    "$oid": "662cafe59c505d6605af58ea"
+  },
+  "name": "Test",
+  "age": "18",
+  "gender": "female",
+  "email": "test123@cs.sjcetpalai.ac.in",
+  "password": {
+    "$binary": {
+      "base64": "JDJiJDEyJGRiR3pUR0F0SG1EOUV0aGtkRS9uNi4wcUJBOUVpYnZ2ZWl1QTlhdllZeUNkUmRiNW1TTEIu",
+      "subType": "00"
+    }
+  },
+  "year_of_study": "1",
+  "is_enabled": true
+}]
